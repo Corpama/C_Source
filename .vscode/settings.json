@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "proxy": "jsonc",
+        "algorithm": "c",
+        "random": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
