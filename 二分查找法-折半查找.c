@@ -26,6 +26,6 @@ int main()
 {
     int BSearch(int a[],int low,int high,int key);
     int a[]={0,1,3,4,6,10,14,17,34,56},length=10,key=34;
-    printf("the position had been checked in array is:%d\n",BSearch(a,0,9,key));
+    printf("the position had been found in array is:%d\n",BSearch(a,0,9,key));
     return 0;
 }
