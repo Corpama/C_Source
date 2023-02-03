@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"proxy": "jsonc",
+			"algorithm": "c",
+			"random": "c"
+		}
+	}
+}
