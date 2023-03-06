@@ -2,6 +2,9 @@
 
 int main()
 {
-    int y=6,x=3,z=3;
-    printf("%d,%d\n",(++x,y++),z+2);
+    int a[10];
+    for(int i=0;i<10;i++)
+    {
+        printf("%d\n",a[i]);
+    }
 }
